@@ -19,3 +19,6 @@
 
 
 2. JSON файл с коллекцией запросов <br>
+
+
+### [***Решение***](https://drive.google.com/drive/folders/196ErVhfbO-LlR-3cMqTD2mmxJ2kjKPIV?usp=drive_link)
